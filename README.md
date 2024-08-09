@@ -64,3 +64,4 @@ Tip: Use the following functions to aid you:
 
 [`String.split`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 [`String.startsWith`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith
+# waa08-serve-static
